@@ -42,3 +42,4 @@ TP/TP_Unity/**/Temp
 *.unityproj
 *.sln
 *.user
+*.pidb
