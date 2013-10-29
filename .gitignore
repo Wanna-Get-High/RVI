@@ -33,9 +33,8 @@
 
 .DS_Store
 
-TP/TP_Unity/**/Temp
 TP/TP_Unity/**/Library/metadata
-
+TP/TP_Unity/**/Temp
 
 *.userprefs
 *.csproj
