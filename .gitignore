@@ -33,7 +33,7 @@
 
 .DS_Store
 
-TP/TP_Unity/**/Library
+TP/TP_Unity/**/Library/metadata
 TP/TP_Unity/**/Temp
 
 *.userprefs
