@@ -37,15 +37,6 @@ confidenceIndexDensity = function(data, techniques, dens) {
 # on charge les données
 data = read.table("data.txt", header=TRUE, sep=",")
 
-########################################################################################################
-# on enlève sempoint (decommenter la ligne)
-#
-####################################################
-#
-# 	data = subset(data, Technique != "SemPoint")
-#
-########################################################################################################
-
 # on récupère les densité et les techniques
 techniques 	= unique(data$Technique)
 densities	= unique(data$density)
